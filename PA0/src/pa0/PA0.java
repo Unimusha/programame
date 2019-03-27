@@ -28,7 +28,7 @@ public class PA0 {
         return fin;
     }
 
-    //Mario
+    //Mario hace esto
     private static void logica() {
         
     }
