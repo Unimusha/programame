@@ -28,7 +28,7 @@ public class PA0 {
         return fin;
     }
 
-    //Jugador 3
+    //Mario
     private static void logica() {
         
     }
