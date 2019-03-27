@@ -2,6 +2,7 @@ package pa0;
 
 public class PA0 {
 
+    //Prueba de subir las cosas desde netbeans
     public static void main(String[] args) {
         boolean finalizar;
         do{
