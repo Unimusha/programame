@@ -16,14 +16,14 @@ public class PA0 {
 
     //Jugador 1
     private static String leerEntrada() {
-        String entrada;
+        String entrada = "";
         
         return entrada;
     }
 
     //Jugador 2
     private static boolean finalDeJuego() {
-        boolean fin;
+        boolean fin = false;
         
         return fin;
     }
